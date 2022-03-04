@@ -1,4 +1,4 @@
-public class Main
+public class javafirstSteps
 {
 	public static void main(String[] args) {
 	  double a = 7 + 3;
